@@ -1,0 +1,4660 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2023 Aspose Pty Ltd.
+# File created: 07/05/2023 00:09:03
+
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Softwood, Lumber
+	illum 2
+	Kd 0.8745098 0.7529412 0.5254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Gypsum Wall Board
+	illum 2
+	Kd 0.498039216 0.498039216 0.498039216
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Gypsum Wall Board
+	illum 2
+	Kd 0.498039216 0.498039216 0.498039216
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Gypsum Wall Board
+	illum 2
+	Kd 0.498039216 0.498039216 0.498039216
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Glass
+	illum 2
+	Kd 0 0.5019608 0.7529412
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Door - Frame
+	illum 2
+	Kd 0.4627451 0.274509817 0.2
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood
+	illum 2
+	Kd 1 0.8627451 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Wood - C24
+	illum 2
+	Kd 1 0.5254902 0.13333334
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0

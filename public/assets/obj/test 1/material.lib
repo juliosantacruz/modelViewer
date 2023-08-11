@@ -1,0 +1,860 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2023 Aspose Pty Ltd.
+# File created: 07/04/2023 23:54:16
+
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Pintura Exterior_Color Blanco (Losas)
+	illum 2
+	Kd 0.9607843 0.9607843 0.9607843
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Door - Frame
+	illum 2
+	Kd 0.67450980000000008 0.5176471 0.372549027
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Appliance - Stainless Steel
+	illum 2
+	Kd 0.7411765 0.733333349 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Leather
+	illum 2
+	Kd 0.0431372561 0.0431372561 0.0431372561
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Fabric Light
+	illum 2
+	Kd 0.78039217 0.7607843 0.6862745
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Fabric Light
+	illum 2
+	Kd 0.78039217 0.7607843 0.6862745
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Metal
+	illum 2
+	Kd 0.4117647 0.30196079999999996 0.227450982
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Aluminum
+	illum 2
+	Kd 0.956862748 0.9607843 0.9647059
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl ARCAT - Metal - Steel - Golden
+	illum 2
+	Kd 0.61960786599999992 0.4627451 0.09411765
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Stone Dark
+	illum 2
+	Kd 0.007843138 0.007843138 0.007843138
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Wood
+	illum 2
+	Kd 0.7254902 0.596078455 0.4745098
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Metal
+	illum 2
+	Kd 0.4117647 0.30196079999999996 0.227450982
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Acabado_Mortero para Ceramico
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl 427ec1b2_7221_4217_9142_c50c193a122b
+	illum 2
+	Kd 0.9019608 0.9019608 0.9019608
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Roshults - Stainless steel
+	illum 2
+	Kd 0.0392156877 0.0392156877 0.0392156877
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Pintura Exterior_Color Blanco (Losas)
+	illum 2
+	Kd 0.9607843 0.9607843 0.9607843
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Pintura Exterior_Color Blanco (Losas)
+	illum 2
+	Kd 0.9607843 0.9607843 0.9607843
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Concrete, Cast-in-Place gray
+	illum 2
+	Kd 0.6 0.60392159999999992 0.572549045
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Concrete, Cast-in-Place gray
+	illum 2
+	Kd 0.6 0.60392159999999992 0.572549045
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Aluminum
+	illum 2
+	Kd 0.956862748 0.9607843 0.9647059
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Default
+	illum 2
+	Kd 0.498039216 0.498039216 0.498039216
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Door - Frame
+	illum 2
+	Kd 0.67450980000000008 0.5176471 0.372549027
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Wood
+	illum 2
+	Kd 0.7254902 0.596078455 0.4745098
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Acabado Cromo
+	illum 2
+	Kd 0.7647059 0.768627465 0.768627465
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Kohler-Metal-CP-Polished_Chrome
+	illum 2
+	Kd 0.8156863 0.8156863 0.8352941
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Glass
+	illum 2
+	Kd 0.8745098 0.9019608 0.894117653
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Glass
+	illum 2
+	Kd 0.8745098 0.9019608 0.894117653
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Canceleria
+	illum 2
+	Kd 0.298039228 0.298039228 0.298039228
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Glass
+	illum 2
+	Kd 0.8745098 0.9019608 0.894117653
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Door - Frame
+	illum 2
+	Kd 0.67450980000000008 0.5176471 0.372549027
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Door - Frame
+	illum 2
+	Kd 0.67450980000000008 0.5176471 0.372549027
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Glass
+	illum 2
+	Kd 0.8745098 0.9019608 0.894117653
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Canceleria
+	illum 2
+	Kd 0.298039228 0.298039228 0.298039228
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Canceleria
+	illum 2
+	Kd 0.298039228 0.298039228 0.298039228
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Muro de piedra
+	illum 2
+	Kd 0.607843161 0.57647060000000008 0.490196079
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl MaterialNode_8355711_0
+	illum 2
+	Kd 0.498039216 0.498039216 0.498039216
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Door - Frame
+	illum 2
+	Kd 0.67450980000000008 0.5176471 0.372549027
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Acabado Exterior_Densglass
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Acabado Exterior_Densglass
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Acabado Exterior_Densglass
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Wood
+	illum 2
+	Kd 0.7254902 0.596078455 0.4745098
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Acabado_Mortero para Ceramico
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Cocina - Cubierta
+	illum 2
+	Kd 0.8392157 0.8392157 0.8117647
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Metal - Steel, Polished
+	illum 2
+	Kd 0.7411765 0.733333349 0.7254902
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl ARCAT - Metal - Steel - White
+	illum 2
+	Kd 0.192156866 0.192156866 0.192156866
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl MaterialNode_8355711_0
+	illum 2
+	Kd 0.498039216 0.498039216 0.498039216
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Azulejo Malla_300x300mm_Regadera
+	illum 2
+	Kd 0.470588237 0.470588237 0.470588237
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Brass
+	illum 2
+	Kd 0.956862748 0.956862748 0.956862748
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Fabric Dark
+	illum 2
+	Kd 0.5294118 0.360784322 0.227450982
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Fabric Dark
+	illum 2
+	Kd 0.5294118 0.360784322 0.227450982
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Furniture - Wood
+	illum 2
+	Kd 0.7254902 0.596078455 0.4745098
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Azulejo Malla_300x300mm_Regadera
+	illum 2
+	Kd 0.470588237 0.470588237 0.470588237
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Pintura Exterior_Color Blanco (Losas)
+	illum 2
+	Kd 0.9607843 0.9607843 0.9607843
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Interior Yeso
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Concreto_Losa 10cm
+	illum 2
+	Kd 0.6 0.60392159999999992 0.572549045
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Glass
+	illum 2
+	Kd 0.8745098 0.9019608 0.894117653
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl AQ_Aplanado Exterior
+	illum 2
+	Kd 0.917647064 0.917647064 0.917647064
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
