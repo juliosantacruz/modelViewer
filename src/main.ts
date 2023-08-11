@@ -3,7 +3,7 @@ import "./style.css";
 import * as THREE from "three";
 import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 import { GLTFLoader } from "three/addons/loaders/GLTFLoader.js";
-import { OBJLoader } from 'three/addons/loaders/OBJLoader.js';
+// import { OBJLoader } from 'three/addons/loaders/OBJLoader.js';
 
 // import gltfModel1 from "./assets/gltf/test1/test1.gltf";
 // import gltfModel2 from "./assets/gltf/test2/test2.gltf";
