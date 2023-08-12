@@ -86,7 +86,11 @@ const bgColor = new THREE.Color("rgb(120, 120, 120)")
 scene.background=bgColor
 
 // Grid
+var gridOptions = { color: 0xffffff, colorXAxis: 0xff0000, colorZAxis: 0x0000ff };
+   
+
 const gridHelper = new THREE.GridHelper(100, 10, "white", "gray");
+ 
 scene.add(gridHelper);
 
 // Torus
