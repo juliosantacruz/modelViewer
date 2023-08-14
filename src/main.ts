@@ -41,14 +41,8 @@ renderer.render(scene, camera);
 const ambientLight = new THREE.AmbientLight(0xffffff); // soft white light
 scene.add(ambientLight);
 
-const pointLight1 = new THREE.PointLight(0xffffff, 1000, 0);
+const pointLight1 = new THREE.PointLight(0xffffff, 100, 0);
 pointLight1.castShadow = true;
-pointLight1.intensity = 100;
-pointLight1.castShadow = true;
-pointLight1.shadow.mapSize.width = 1024;
-pointLight1.shadow.mapSize.height = 1024;
-pointLight1.shadow.camera.near = 5;
-pointLight1.shadow.camera.far = 10;
 pointLight1.position.set(8, 25, 10);
 const lightHelper1 = new THREE.PointLightHelper(pointLight1);
 
@@ -75,15 +69,7 @@ scene.add(lightHelper1, lightHelper2, lightHelper3);
 
 const spotLight = new THREE.SpotLight(0xffffff);
 spotLight.position.set(13, 32, 30);
-spotLight.intensity = 100;
-spotLight.angle = 0.45;
-spotLight.penumbra = 1.3;
-spotLight.castShadow = true;
-spotLight.shadow.mapSize.width = 1024;
-spotLight.shadow.mapSize.height = 1024;
-spotLight.shadow.camera.near = 5;
-spotLight.shadow.camera.far = 10;
-spotLight.shadow.focus = 1;
+
 
 const spotLightHelper = new THREE.SpotLightHelper(spotLight);
 scene.add(spotLight, spotLightHelper);
@@ -194,15 +180,14 @@ ground.receiveShadow = true;
 scene.add(ground);
 
 function animate() {
-  requestAnimationFrame(animate);
-
+  
   torus.rotation.x += 0.005;
-  // torus.rotation.y += 0.005;
-  // torus.rotation.z += 0.01;
-
+ 
+  
   orbitControl.update();
-
+  
   renderer.render(scene, camera);
+  requestAnimationFrame(animate);
 }
 
 animate();
