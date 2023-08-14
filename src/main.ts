@@ -30,10 +30,7 @@ camera.position.setX(20);
 renderer.setPixelRatio(window.devicePixelRatio);
 renderer.setSize(window.innerWidth, window.innerHeight);
 
-// Setting Shadows conf
-renderer.shadowMap.enabled = true;
-// Type of Shadow
-renderer.shadowMap.type = THREE.PCFShadowMap;
+ 
 
 renderer.render(scene, camera);
 
@@ -41,28 +38,27 @@ renderer.render(scene, camera);
 const ambientLight = new THREE.AmbientLight(0xffffff); // soft white light
 scene.add(ambientLight);
 
-const pointLight1 = new THREE.PointLight(0xffffff, 100, 0);
-pointLight1.castShadow = true;
+const pointLight1 = new THREE.PointLight(0xffffff, 1000, 0); 
 pointLight1.position.set(8, 25, 10);
-const lightHelper1 = new THREE.PointLightHelper(pointLight1);
+// const lightHelper1 = new THREE.PointLightHelper(pointLight1);
 
 const pointLight2 = new THREE.PointLight(0xffffff, 100);
 pointLight2.castShadow = true;
 
 pointLight2.position.set(6, 12, 20);
-const lightHelper2 = new THREE.PointLightHelper(pointLight2);
+// const lightHelper2 = new THREE.PointLightHelper(pointLight2);
 
 const pointLight3 = new THREE.PointLight(0xffffff, 10);
 pointLight3.castShadow = true;
 
 pointLight3.position.set(3, 10, 10);
-const lightHelper3 = new THREE.PointLightHelper(pointLight3);
+// const lightHelper3 = new THREE.PointLightHelper(pointLight3);
 
 // add LightPoints
 scene.add(pointLight1, pointLight2, pointLight3);
 
 // add Light Helpers
-scene.add(lightHelper1, lightHelper2, lightHelper3);
+// scene.add(lightHelper1, lightHelper2, lightHelper3);
 
 // const light = new THREE.HemisphereLight( 0xffffbb, 0x080820, 100 );
 // scene.add( light );
@@ -71,72 +67,66 @@ const spotLight = new THREE.SpotLight(0xffffff);
 spotLight.position.set(13, 32, 30);
 
 
-const spotLightHelper = new THREE.SpotLightHelper(spotLight);
-scene.add(spotLight, spotLightHelper);
+// const spotLightHelper = new THREE.SpotLightHelper(spotLight);
+scene.add(spotLight);
 
 // Torus
 const torusGeometry = new THREE.TorusGeometry(35, 1, 50, 30);
 const torusMaterial = new THREE.MeshStandardMaterial({ color: "yellow" });
 const torus = new THREE.Mesh(torusGeometry, torusMaterial);
+torus.castShadow=true
+
 scene.add(torus);
 
 // Orbit Control
 const orbitControl = new OrbitControls(camera, renderer.domElement);
 
 // GLTF
-// const gltfLoader = new GLTFLoader();
-// gltfLoader.load(
-//   './assets/gltf/test2/test2.gltf',
-//   function (gltf) {
-//     // console.log(gltf);
-//     const root = gltf.scene;
-//     root.scale.set(.1,.1,.1)
-
-//   scene.add( gltf.scene );
-
-// 		gltf.animations; // Array<THREE.AnimationClip>
-// 		gltf.scene; // THREE.Group
-// 		gltf.scenes; // Array<THREE.Group>
-// 		gltf.cameras; // Array<THREE.Camera>
-// 		gltf.asset; // Object
-
-//   },
-//   function (xhr) {
-//     console.log(xhr.loaded / xhr.total, "% loaded");
-//   },
-//   function (error) {
-//     console.log( 'An error happened => ', error );
-//   }
-// );
-
-// GLB  <-- Working
-const glbLoader = new GLTFLoader();
-glbLoader.load(
-  "./assets/glb/pb4-test.glb",
-  function (glb) {
-    scene.add(glb.scene);
-
-    glb.animations; // Array<THREE.AnimationClip>
-    glb.scene; // THREE.Group
-    glb.scenes; // Array<THREE.Group>
-    spotLight.shadow.camera.near = 5;
-    glb.scene.castShadow = true;
-
-    // glb.scene.traverse(function (node) {
-    //   if (node.isObject3D) {
-    //     node.castShadow = true;
-    //   }
-    // });
-    glb.cameras; // Array<THREE.Camera>
-    glb.asset; // Object
+const gltfLoader = new GLTFLoader();
+gltfLoader.load(
+  './assets/gltf/test1/test1.gltf',
+  function (gltf) {
+    gltf.scene.scale.set( .001, .001,.001)
+    
+    gltf.scene.rotation.x=-Math.PI/2
+    gltf.scene.position.set(-20,0,0)
+		gltf.animations; // Array<THREE.AnimationClip>
+		gltf.scene; // THREE.Group
+		gltf.scenes; // Array<THREE.Group>
+		gltf.cameras; // Array<THREE.Camera>
+		gltf.asset; // Object
+    
+    scene.add( gltf.scene );
+    console.log(gltf); 
   },
   function (xhr) {
     console.log(xhr.loaded / xhr.total, "% loaded");
   },
   function (error) {
-    console.log("An error happened =>", error);
+    console.log( 'An error happened => ', error );
   }
 );
+
+// GLB  <-- Working
+// const glbLoader = new GLTFLoader();
+// glbLoader.load(
+//   "./assets/glb/pb4-test.glb",
+//   function (glb) {
+//     scene.add(glb.scene);
+
+//     glb.animations; // Array<THREE.AnimationClip>
+//     glb.scene; // THREE.Group
+//     glb.scenes; // Array<THREE.Group>
+//     glb.cameras; // Array<THREE.Camera>
+//     glb.asset; // Object
+//   },
+//   function (xhr) {
+//     console.log(xhr.loaded / xhr.total, "% loaded");
+//   },
+//   function (error) {
+//     console.log("An error happened =>", error);
+//   }
+// );
 
 // Object models
 // const loaderObj = new OBJLoader()
