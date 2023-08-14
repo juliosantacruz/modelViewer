@@ -50,7 +50,11 @@ const pointLight3 =  new THREE.PointLight(0xffffff, 10)
 pointLight3.position.set(11,20,10)
 const lightHelper3 = new THREE.PointLightHelper(pointLight3)
 
-scene.add(pointLight1, lightHelper1, pointLight2, lightHelper2, lightHelper3, pointLight3);
+// add LightPoints
+scene.add(pointLight1, pointLight2, pointLight3);
+
+// add Light Helpers
+// scene.add(lightHelper1, lightHelper2, lightHelper3);
 
 
 const light = new THREE.HemisphereLight( 0xffffbb, 0x080820, 100 );
@@ -71,7 +75,7 @@ spotLight.shadow.focus=1
 
 
 const spotLightHelper = new THREE.SpotLightHelper(spotLight)
-scene.add(spotLight, spotLightHelper)
+// scene.add(spotLight, spotLightHelper)
 
 
 
@@ -86,12 +90,56 @@ const bgColor = new THREE.Color("rgb(120, 120, 120)")
 scene.background=bgColor
 
 // Grid
-var gridOptions = { color: 0xffffff, colorXAxis: 0xff0000, colorZAxis: 0x0000ff };
-   
-
-const gridHelper = new THREE.GridHelper(100, 10, "white", "gray");
+const gridHelper = new THREE.GridHelper(100, 10, "gray");
  
 scene.add(gridHelper);
+
+// Line Grid Axis X
+// Line Color
+const LineMaterialAxisX = new THREE.LineBasicMaterial( { color: 0x0000ff } );
+
+// Line Vector points
+const pointsAxisX = [];
+pointsAxisX.push( new THREE.Vector3( -100, 0, 0 ) );
+pointsAxisX.push( new THREE.Vector3( 100, 0, 0 ) );
+// set line
+const geometryLine = new THREE.BufferGeometry().setFromPoints( pointsAxisX );
+// create line
+const lineAxisX = new THREE.Line( geometryLine, LineMaterialAxisX );
+scene.add( lineAxisX );
+
+
+
+// Line Grid Axis Y
+// Line Color
+const LineMaterialAxisY = new THREE.LineBasicMaterial( { color: 0x00FFff } );
+
+// Line Vector points
+const pointsAxisY = [];
+pointsAxisY.push( new THREE.Vector3( 0, -100, 0 ) );
+pointsAxisY.push( new THREE.Vector3( 0, 100, 0 ) );
+// set line
+const geometryLineY = new THREE.BufferGeometry().setFromPoints( pointsAxisY );
+// create line
+const lineAxisY = new THREE.Line( geometryLineY, LineMaterialAxisY );
+scene.add( lineAxisY );
+
+
+
+// Line Grid Axis Z
+// Line Color
+const LineMaterialAxisZ = new THREE.LineBasicMaterial( { color: 0xF560ff } );
+
+// Line Vector points
+const pointsAxisZ = [];
+pointsAxisZ.push( new THREE.Vector3( 0, 0, -100 ) );
+pointsAxisZ.push( new THREE.Vector3( 0, 0, 100 ) );
+// set line
+const geometryLineZ = new THREE.BufferGeometry().setFromPoints( pointsAxisZ );
+// create line
+const lineAxisZ = new THREE.Line( geometryLineZ, LineMaterialAxisZ );
+scene.add( lineAxisZ );
+
 
 // Torus
 const torusGeometry = new THREE.TorusGeometry(35, 1, 50, 30);
