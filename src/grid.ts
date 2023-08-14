@@ -1,5 +1,5 @@
 import "./style.css";
-import { renderer, scene } from "./main";
+import { scene } from "./main";
 import * as THREE from "three";
 
 
